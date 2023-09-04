@@ -1,6 +1,6 @@
 # Img-Resizer
 
-Automatic image resizer TO CUBE!! You can easily change it to a rectangle, but it was primarily used to resize image to make app icon!
+Automatic image resizer TO SQUARE!! You can easily change it to a rectangle, but it was primarily used to resize image to make app icon!
 
 pip install PIL, os
 
